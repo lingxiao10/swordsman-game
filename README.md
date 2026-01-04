@@ -2,7 +2,7 @@
 
 > *"In a neon-drenched dystopia, one hero rises... to rescue ALL his wives!"*
 
-## [Play Now! / 立即试玩!](https://cdn.xfeixie.com/projects/dev/project_626567075259378731/dist_2aa3fce3bda9eb4cbdbcb886d02b27211f71c0f5/index.html?c=tBMQ&game_id=project_626567075259378731)
+## <a href="https://cdn.xfeixie.com/projects/dev/project_626567075259378731/dist_2aa3fce3bda9eb4cbdbcb886d02b27211f71c0f5/index.html?c=tBMQ&game_id=project_626567075259378731" target="_blank">Play Now! / 立即试玩!</a>
 
 <!-- VIDEO_PLACEHOLDER: Add your gameplay video here -->
 <!-- 视频占位：在此处添加游戏演示视频 -->
@@ -15,7 +15,7 @@ A glorious cyberpunk 3D action game where you slash through hordes of enemies, r
 
 ## How This Game Was Born — 5 Prompts to Glory
 
-This game was created using **[Devokai](https://devokai.com)** — a professional tool that uses **Gemini 3** to generate complete games. Unlike using Gemini directly (which can only iterate a few versions before losing context), Devokai allows **unlimited iterations** to keep refining your game.
+This game was created using **<a href="https://devokai.com" target="_blank">Devokai</a>** — a professional tool that uses **Gemini 3** to generate complete games. Unlike using Gemini directly (which can only iterate a few versions before losing context), Devokai allows **unlimited iterations** to keep refining your game.
 
 **Pro tip:** Don't dump everything in one prompt! Instead, build your game step by step across multiple conversation rounds. Here's how we did it in 5 rounds:
 
@@ -160,7 +160,7 @@ This is a pre-built game. No `npm install`, no `webpack`, no tears. Just serve a
 
 ## 这款游戏是怎么诞生的 —— 5个提示词的奇迹
 
-这款游戏使用 **[Devokai](https://devokai.com)** 创建 —— 一款专业的游戏生成工具，底层使用 **Gemini 3** 来生成完整的游戏。和直接使用 Gemini 不同（直接用只能迭代几个版本就会丢失上下文），Devokai 支持**无限迭代**，让你不断打磨你的游戏。
+这款游戏使用 **<a href="https://devokai.com" target="_blank">Devokai</a>** 创建 —— 一款专业的游戏生成工具，底层使用 **Gemini 3** 来生成完整的游戏。和直接使用 Gemini 不同（直接用只能迭代几个版本就会丢失上下文），Devokai 支持**无限迭代**，让你不断打磨你的游戏。
 
 **小技巧：** 不要把所有需求一次性塞进去！而是分成多轮对话，一步一步构建你的游戏。以下是我们用5轮对话完成的过程：
 
@@ -285,4 +285,3 @@ php -S localhost:8080
 5. Boss出现时，你学到的一切都将派上用场
 
 欢迎加入AI游戏生成群：
-
