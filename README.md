@@ -1,6 +1,12 @@
 # Cyber Swordsman - Rescue Your 100 Wives!
 
 > *"In a neon-drenched dystopia, one hero rises... to rescue ALL his wives!"*
+>
+> 
+
+https://github.com/user-attachments/assets/8a0554ed-24f7-4da3-ac7c-0b9134316f65
+
+
 
 ## <a href="https://cdn.xfeixie.com/projects/dev/project_626567075259378731/dist_2aa3fce3bda9eb4cbdbcb886d02b27211f71c0f5/index.html?c=tBMQ&game_id=project_626567075259378731" target="_blank">Play Now! / 立即试玩!</a>
 
@@ -151,7 +157,11 @@ This is a pre-built game. No `npm install`, no `webpack`, no tears. Just serve a
 
 ## <a href="https://cdn.xfeixie.com/projects/dev/project_626567075259378731/dist_2aa3fce3bda9eb4cbdbcb886d02b27211f71c0f5/index.html?c=tBMQ&game_id=project_626567075259378731" target="_blank">立即试玩！</a>
 
-<!-- 视频占位：在此处添加游戏演示视频 -->
+
+
+https://github.com/user-attachments/assets/3989df27-b396-4d12-a084-2f48ecd60d54
+
+
 
 ---
 
@@ -285,4 +295,4 @@ php -S localhost:8080
 4. 留一些美女以备后续回血 —— 别一开始就"用完"
 5. Boss出现时，你学到的一切都将派上用场
 
-欢迎加入AI游戏生成群：
+欢迎加入AI游戏生成群，加我拉群：linginlove
