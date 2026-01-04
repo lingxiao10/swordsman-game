@@ -2,6 +2,13 @@
 
 > *"In a neon-drenched dystopia, one hero rises... to rescue ALL his wives!"*
 
+## [Play Now! / 立即试玩!](https://cdn.xfeixie.com/projects/dev/project_626567075259378731/dist_2aa3fce3bda9eb4cbdbcb886d02b27211f71c0f5/index.html?c=tBMQ&game_id=project_626567075259378731)
+
+<!-- VIDEO_PLACEHOLDER: Add your gameplay video here -->
+<!-- 视频占位：在此处添加游戏演示视频 -->
+
+---
+
 A glorious cyberpunk 3D action game where you slash through hordes of enemies, rescue beautiful maidens, and face the ultimate boss — the **OMEGA ENTITY**. Built with Three.js and pure determination.
 
 ---
@@ -97,17 +104,17 @@ This is a pre-built game. No `npm install`, no `webpack`, no tears. Just serve a
 
 ---
 
-## License
-
-MIT — Go wild, cyber-warrior.
-
----
-
 ---
 
 # 赛博剑客 - 拯救你的100位老婆！
 
 > *"在霓虹灯闪烁的废土世界，一位英雄崛起……为了拯救他所有的老婆！"*
+
+## [立即试玩！](https://cdn.xfeixie.com/projects/dev/project_626567075259378731/dist_2aa3fce3bda9eb4cbdbcb886d02b27211f71c0f5/index.html?c=tBMQ&game_id=project_626567075259378731)
+
+<!-- 视频占位：在此处添加游戏演示视频 -->
+
+---
 
 这是一款华丽的赛博朋克3D动作游戏，在这里你将斩杀成群的敌人、解救美丽的少女，并面对终极Boss —— **终极实体（OMEGA ENTITY）**。使用Three.js开发，满满的诚意。
 
@@ -200,9 +207,3 @@ php -S localhost:8080
 3. 血量低的时候，安全屋是你的好朋友
 4. 留一些美女以备后续回血 —— 别一开始就"用完"
 5. Boss出现时，你学到的一切都将派上用场
-
----
-
-## 许可证
-
-MIT — 尽情发挥吧，赛博战士。
