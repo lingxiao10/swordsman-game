@@ -13,6 +13,44 @@ A glorious cyberpunk 3D action game where you slash through hordes of enemies, r
 
 ---
 
+## How This Game Was Born — 5 Prompts to Glory
+
+This game was created using **[Devokai](https://devokai.com)** — a professional tool that uses **Gemini 3** to generate complete games. Unlike using Gemini directly (which can only iterate a few versions before losing context), Devokai allows **unlimited iterations** to keep refining your game.
+
+**Pro tip:** Don't dump everything in one prompt! Instead, build your game step by step across multiple conversation rounds. Here's how we did it in 5 rounds:
+
+### Step 1: The Foundation (Base Prompt)
+
+> Create a cyberpunk-style 3D action game. The player controls a neon swordsman who can move with WASD and attack with spacebar. Enemies spawn continuously and chase the player. Include basic combat with sword slashing animations. Use Three.js for rendering.
+
+*This gave us: A playable character, basic movement, enemy spawning, and sword combat.*
+
+### Step 2: Rescue System
+
+> Add beautiful maidens scattered across the map who call for help. When the player gets close, they are "rescued" and start following the player. Each rescue gives XP points. Add a level-up system that triggers when enough XP is collected.
+
+*This gave us: Rescue mechanics, follower system, XP & leveling.*
+
+### Step 3: Arsenal Expansion
+
+> Add a weapon upgrade system. At level 2 unlock a Blaster (ranged attack). At level 3 unlock a Cannon (explosive). At level 4 unlock deployable Mines. Add a weapon switch button (Q key) and show current weapon UI.
+
+*This gave us: 4 weapons, weapon switching, unlock progression.*
+
+### Step 4: Safe House & Companions
+
+> Add a "Safe House" zone on the map. When the player enters with rescued beauties, they can interact to restore health. Each beauty can only heal once. Also add a loyal cyber-dog companion that the player can release (E key) to attack nearby enemies.
+
+*This gave us: Healing mechanics, the Safe House, and our good boy cyber-dog.*
+
+### Step 5: Epic Boss Battle
+
+> Add a countdown timer. When it reaches zero, spawn a giant boss called "OMEGA ENTITY". The boss has special attacks and a health bar. Add victory/defeat screens and a "share score" button. Include sound effects and background music.
+
+*This gave us: Boss fight, win/lose conditions, audio, and the complete game!*
+
+---
+
 ## Features
 
 ### Combat System
@@ -120,6 +158,44 @@ This is a pre-built game. No `npm install`, no `webpack`, no tears. Just serve a
 
 ---
 
+## 这款游戏是怎么诞生的 —— 5个提示词的奇迹
+
+这款游戏使用 **[Devokai](https://devokai.com)** 创建 —— 一款专业的游戏生成工具，底层使用 **Gemini 3** 来生成完整的游戏。和直接使用 Gemini 不同（直接用只能迭代几个版本就会丢失上下文），Devokai 支持**无限迭代**，让你不断打磨你的游戏。
+
+**小技巧：** 不要把所有需求一次性塞进去！而是分成多轮对话，一步一步构建你的游戏。以下是我们用5轮对话完成的过程：
+
+### 第1步：打地基（基础提示词）
+
+> 创建一个赛博朋克风格的3D动作游戏。玩家控制一个霓虹剑客，可以用WASD移动，空格键攻击。敌人持续生成并追击玩家。包含基础的剑斩战斗和动画。使用Three.js渲染。
+
+*这一步我们得到了：可操控的角色、基础移动、敌人生成、剑斩战斗。*
+
+### 第2步：解救系统
+
+> 在地图上添加分散的美女角色，她们会呼救。当玩家靠近时，她们被"解救"并开始跟随玩家。每次解救获得经验值。添加升级系统，当经验值足够时触发升级。
+
+*这一步我们得到了：解救机制、跟随系统、经验值和升级。*
+
+### 第3步：武器库扩展
+
+> 添加武器升级系统。2级解锁激光枪（远程攻击）。3级解锁重炮（爆炸伤害）。4级解锁可部署的地雷。添加武器切换按钮（Q键）并显示当前武器UI。
+
+*这一步我们得到了：4种武器、武器切换、解锁进度。*
+
+### 第4步：安全屋与伙伴
+
+> 在地图上添加一个"安全屋"区域。当玩家带着被救的美女进入时，可以互动恢复生命值。每个美女只能治疗一次。同时添加一只忠诚的赛博狗伙伴，玩家可以按E键放出它攻击附近的敌人。
+
+*这一步我们得到了：治疗机制、安全屋、还有我们的好狗子。*
+
+### 第5步：史诗Boss战
+
+> 添加倒计时。当倒计时结束时，生成一个叫做"终极实体"的巨型Boss。Boss有特殊攻击和血条。添加胜利/失败界面和"分享战绩"按钮。加入音效和背景音乐。
+
+*这一步我们得到了：Boss战、胜负判定、音效，以及完整的游戏！*
+
+---
+
 ## 游戏特色
 
 ### 战斗系统
@@ -207,3 +283,6 @@ php -S localhost:8080
 3. 血量低的时候，安全屋是你的好朋友
 4. 留一些美女以备后续回血 —— 别一开始就"用完"
 5. Boss出现时，你学到的一切都将派上用场
+
+欢迎加入AI游戏生成群：
+
